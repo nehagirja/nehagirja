@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Neha Girja! 👋
 
-<!--
-**nehagirja/nehagirja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I specialize in full-stack development, with a focus on web and mobile applications.
+- 🌱 I’m currently learning more about cloud computing and AI/ML technologies.
+- 🤝 I’m looking to collaborate on open-source projects that make a positive impact.
+- 💬 Ask me about JavaScript, Python, React, Node.js, and more!
+- 📫 How to reach me: [nehagirja09@gmail.com](mailto:nehagirja09@gmail.com)
+
+## 📫 Connect with Me
+
+- LinkedIn: [Neha Girja](https://www.linkedin.com/in/neha-girja-a32a061a6/)
