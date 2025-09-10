@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 About Me
 
-- 💻 I specialize in full-stack development, with a focus on web and mobile applications.
+- 💻 I specialize in full-stack development, with a focus on building scalable and high-performance web applications
 - 🌱 I’m currently learning more about cloud computing and AI/ML technologies.
 - 🤝 I’m looking to collaborate on open-source projects that make a positive impact.
 - 💬 Ask me about JavaScript, Python, React, Node.js, and more!
